@@ -16,6 +16,6 @@
 ## Links
 
 * [Website](https://polyswap.io)
-* [Github](https://github.com/polyswap)
 * [Twitter](https://twitter.com/PolyswapDEX)
+* [Github](https://github.com/polyswap)
 
