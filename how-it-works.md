@@ -1,5 +1,9 @@
 # How it works
 
+{% hint style="info" %}
+This documentation is a work in progress.
+{% endhint %}
+
 Investors deposit Cardano tokens into liquidity pools, each of which contains two types of tokens.
 
 ### Liquidity Pools
