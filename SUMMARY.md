@@ -5,7 +5,6 @@
 * [Tokenomics](tokenomics.md)
 * [Guides](guides.md)
 * [Roadmap](roadmap.md)
-* [Comparison](comparison.md)
 * [FAQ](faq.md)
 
 ## Technical Reference <a id="developer"></a>
