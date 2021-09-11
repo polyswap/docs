@@ -2,9 +2,6 @@
 
 * [What is Polyswap?](README.md)
 * [How it works](how-it-works.md)
-* [Tokenomics](tokenomics.md)
-* [Guides](guides.md)
-* [Roadmap](roadmap.md)
 * [FAQ](faq.md)
 
 ## Technical Reference <a id="developer"></a>
