@@ -6,7 +6,7 @@ Polyswap is a permissionless peer-to-peer protocol for decentralized finance \(D
 
 In a traditional order-book exchange, a centralized system receives and matches users' _buy_ and _sell_ orders while taking transaction fees. Users need to entrust their capital with either the exchange itself or an intermediary such as a broker \(which might charge additional transaction fees\).
 
-At every step of the process, from deposit to withdrawal, the users' capital is in the custody of some party other than themselves. The user needs to trust the broker and/or the exchange, and they, in turn, need to trust the user. As a result, registration is often lengthy and bureaucratic, and whether someone is even allowed to register depends on a number of factors such as geography, citizenship, wealth, and age.
+At every step of the process, from deposit to withdrawal, the users' capital is in the custody of some party other than themselves. The user needs to trust the broker and/or the exchange, and they, in turn, need to trust the user. As a result, registration is often lengthy and bureaucratic, and whether someone is even allowed to register depends on a number of factors such as their location, citizenship, wealth, and age.
 
 Exchanges often employ market makers to increase liquidity. A market maker is traditionally a company that takes on the obligation of making the other side of trades under certain conditions. Market makers are often granted various informational and trade execution advantages with the exchange but they primarily make money on the bid-ask spread.
 
