@@ -4,11 +4,6 @@
 * [How it works](how-it-works.md)
 * [FAQ](faq.md)
 
-## Technical Reference <a id="developer"></a>
-
-* [Overview](developer/overview.md)
-* [Smartcontracts](developer/smartcontracts.md)
-
 ## Links
 
 * [Website](https://polyswap.io)
