@@ -12,7 +12,7 @@ Exchanges often employ market makers to increase liquidity. A market maker is tr
 
 ![](.gitbook/assets/order-book-depth.png)
 
-For example, if an asset is traded around $1 a trivially simple market maker can _buy_ the asset at or below $0.9 and _sell_ at or above $1.1. As long as the market price fluctuates higher and lower than that range, they will be buying assets at $1.1 and selling at $0.9, and their strategy will be profitable. If the price changes substantially, the market maker may want to update their strategy, and If they don't have enough capital they can incurr losses. Generally, market makers prefer high-volume, nonvolatile markets for that reason.
+For example, if an asset is traded around $1 a trivially simple market maker can _buy_ the asset at or below $0.9 and _sell_ at or above $1.1. As long as the market price fluctuates higher and lower than that range, they will be buying assets at $1.1 and selling at $0.9, and their strategy will be profitable. If the price changes substantially, the market maker may want to update their strategy, and If they don't have enough capital they can incurr losses. Generally, market makers prefer high-volume, low-volatility markets for that reason.
 
 ### What makes Polyswap different
 
