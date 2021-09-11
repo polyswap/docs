@@ -2,7 +2,7 @@
 
 Polyswap is a permissionless peer-to-peer protocol for decentralized finance \(DeFi\) implemented on the Cardano proof-of-stake blockchain. On one hand, Polyswap makes it possible to exchange tokens, and on the other, it allows liquidity providers to earn a return on their capital from transaction fees.
 
-### Traditional order-book exchanges
+## Traditional order-book exchanges
 
 In a traditional order-book exchange, a centralized system receives and matches users' _buy_ and _sell_ orders while taking transaction fees. Users need to entrust their capital with either the exchange itself or an intermediary such as a broker \(which might charge additional transaction fees\).
 
@@ -14,7 +14,7 @@ Exchanges often employ market makers to increase liquidity. A market maker is tr
 
 For example, if an asset is traded around $1 a trivially simple market maker can _buy_ the asset at or below $0.9 and _sell_ at or above $1.1. As long as the market price fluctuates higher and lower than that range, they will be buying assets at $1.1 and selling at $0.9, and their strategy will be profitable. If the price changes substantially, the market maker may want to update their strategy, and If they don't have enough capital they can incurr losses. Generally, market makers prefer high-volume, low-volatility markets for that reason.
 
-### What makes Polyswap different
+## What makes Polyswap different
 
 Polyswap implements a noncustodial automated market maker, which is an algorithm that programmatically and continuously determines a price relationship between assets. There is no order book and no _buy_ or _sell_ orders. Trades are always executed at the market price, and the market price changes accordingly. The capital needed to make the markets \(i.e. to take the other side of trades every time\) can be provided by anyone, and reclaimed at any time. Those who provide capital are known as liquidity providers \(LPs\), and they earn transaction fees.
 
