@@ -1,7 +1,6 @@
 # Table of contents
 
 * [What is Polyswap?](README.md)
-* [How it works](how-it-works.md)
 * [FAQ](faq.md)
 
 ## Links
@@ -9,4 +8,3 @@
 * [Website](https://polyswap.io)
 * [Twitter](https://twitter.com/PolyswapDEX)
 * [Github](https://github.com/polyswap)
-
