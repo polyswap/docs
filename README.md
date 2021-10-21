@@ -1,6 +1,6 @@
 # What is Polyswap?
 
-![](.gitbook/assets/screenshot-from-2021-10-05-18-22-55.png)
+![](<.gitbook/assets/Screenshot from 2021-10-05 18-22-55.png>)
 
 Polyswap is a permissionless peer-to-peer protocol for decentralized finance (DeFi) implemented on the Cardano proof-of-stake blockchain. Polyswap makes it possible for traders to exchange tokens, while allowing liquidity providers to earn a return on their capital from transaction fees.
 
